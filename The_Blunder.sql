@@ -1,0 +1,8 @@
+SELECT CAST(
+  CEIL(
+    AVG(SALARY * 1.0) 
+    - 
+    AVG(DECIMAL(REPLACE(CHAR(SALARY), '0', ''), 10, 2))
+  ) AS INTEGER
+) AS error_amount
+FROM EMPLOYEES;
