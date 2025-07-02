@@ -48,7 +48,7 @@ This repository contains **all** the SQL challenges I’ve solved on HackerRank,
 I’m always up for SQL discussions or feedback—feel free to reach out:
 
 - GitHub: [@surendhar848](https://github.com/surendhar848)  
-- LinkedIn: [Surendhar Kumar D](www.linkedin.com/in/surendhar-kumar-d-5a5941221)  
+- LinkedIn: [Surendhar Kumar D](https://www.linkedin.com/in/surendhar-kumar-d-5a5941221/)  
 
 ---
 
